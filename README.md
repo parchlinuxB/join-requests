@@ -1,30 +1,22 @@
-# join-requests
+# Join Requests
 
-Requests to join the WorkGroup goes here
+This is where you can submit your requests to join the WorkGroup.
 
-# Criterias for volunteering for Education
-* You have the habit of writing code-related posts if you are contributing an article
-* You have experience with helping on StackOverflow or similar or on help channels if you are contributing FaQs
-# Criterias for volunteering to maintain projects (code)
-* You have a 'nice' Github/Gitlab/... profile. By nice it means that: you have experience maintaining a known project or you have been contributing consistently to a known project
-# How to apply?
+# Criteria for Volunteering to Maintain Projects (Code)
 
-Create an issue named: 
+To volunteer for maintaining projects, you should meet the following criteria:
 
- `Join request: @your_username`
+- You should have a well-established GitHub/GitLab/... profile. A well-established profile means that you have experience maintaining a recognized project or you have consistently contributed to a well-known project.
+- You should have free time available. By "free time," we mean that you have at least one hour of availability every day.
 
-Write in it a brief intro of yourself as well as your Linux experience, the areas you volunteer for from (code, events, education, translation) as well as expounding how you fulfill the criteria above.
+# How to Apply?
 
-### For Code
+To apply, create an issue with the title: `Join Request: @your_username`
 
-Issues will be created on adopted projects. Solve the issues. After consistent work, you'll be added to the WG
+### For Application Development
 
-We need programs for the parch operating system. If you can help us write those programs, be sure to mention the language (s) and technology (s) you specialize in.
+If you are interested in application development, it is important to be responsible and have a minimal understanding of algorithms and system design. These skills will enable you to create efficient and effective applications that meet the needs of users. With the right knowledge and approach, you can develop applications that are both functional and user-friendly. If you are interested in this, simply create an issue.
 
-### For Education
+### For New DE/WM Porting
 
-If you did some past outstanding work on preparing Linux/programming tutorials and courses, you'll be added to the WG. Else, a series of topics will be posted soon. You can PR articles on the topics. Based on the areas above for education viz blog posts, faqs, and resources curation, after consistent work, you'll be added to the WG.
-
-### For events
-
-For events, when the time comes, just join as a volunteer and help with the event to be included.
+To successfully create a new desktop environment or window manager, it is crucial to be accountable for your work. This involves considering how your modifications may impact users and ensuring that your code is both stable and secure. Additionally, it is important to be receptive to feedback and be prepared to make adjustments based on user input. By taking responsibility for your work in this way, you can ensure that your contributions are valuable and beneficial to the community.
